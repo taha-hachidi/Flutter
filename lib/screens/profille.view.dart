@@ -16,12 +16,12 @@ class profileview extends StatelessWidget {
         ),
         const SizedBox(height: 20),
         const Text(
-          "username",
+          "hachidi taha",
           style: TextStyle(color: Colors.black26, fontSize: 40),
         ),
         const SizedBox(height: 20),
         const Text(
-          "mail@gmail.com",
+          "taha@gmail.com",
           style: TextStyle(color: Colors.grey, fontSize: 26),
         ),
         const SizedBox(
